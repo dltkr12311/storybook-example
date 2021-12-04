@@ -1,6 +1,6 @@
 import React from "react";
 
-import Task from "./Task";
+import Task from "./TaskListItem";
 
 export default {
   component: Task,
